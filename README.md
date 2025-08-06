@@ -63,18 +63,9 @@ https://github.com/danielmiessler/SecLists
 - Large scans may be slow; consider adding threading.  
 - Handle responsibly and ethically.
 
-## Roadmap Ideas
-
-- [ ] Add threading  
-- [ ] Add progress bar  
-- [ ] Resume support  
-- [ ] Save results to a file  
-- [ ] Use CLI arguments for options
-
 ## Author
 
 Made by Karim Marwan  
-https://github.com/karimmarwanw
 
 ## Disclaimer
 
